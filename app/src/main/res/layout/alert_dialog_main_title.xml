@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dp_300"
+    android:layout_height="@dimen/dp_170"
+    android:background="@android:color/transparent"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:layout_width="@dimen/dp_300"
+        android:layout_height="@dimen/dp_170"
+        android:background="@drawable/alert_dialog_shape"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/alert_dialog_title"
+            android:layout_width="300dp"
+            android:layout_height="@dimen/dp_50"
+            android:gravity="center"
+            android:text="提示"
+            android:textColor="#000"
+            android:textSize="@dimen/sp_17" />
+
+        <TextView
+            android:id="@+id/alert_dialog_content"
+            android:layout_width="300dp"
+            android:layout_height="@dimen/dp_50"
+            android:gravity="center"
+            android:text="您好，请设置摇一摇主标题！"
+            android:textColor="#000"
+            android:textSize="@dimen/sp_17" />
+
+        <View
+            android:layout_width="@dimen/dp_300"
+            android:layout_height="@dimen/dp_1"
+            android:text="_"
+            android:background="@color/de_draft_color" />
+
+        <Button
+            android:background="@drawable/mybtnbottomselector"
+            android:id="@+id/tv_roger"
+            android:layout_width="300dp"
+            android:layout_height="@dimen/dp_50"
+            android:gravity="center"
+            android:text="知道了"
+            android:textColor="@color/de_draft_color"
+            android:textSize="@dimen/sp_17" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:3:5-33
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:5:5-30
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:4:5-28
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+application
+ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml:7:5-20
+uses-sdk
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+		ADDED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml
+		INJECTED from E:\download\RongYun\volleyplus_lib\AndroidManifest.xml

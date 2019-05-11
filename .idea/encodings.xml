@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/AMap_Channel_Location_V1.4.0_20160708.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/AMap_Search_V6.5.0_20180930.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/libs/Amap_2DMap_V5.2.0_20170627.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/test/RongYun/BaseApplication.java" charset="GBK" />
+  </component>
+</project>
